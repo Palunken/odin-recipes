@@ -1,0 +1,30 @@
+body{
+    background-color:antiquewhite;
+    font-family: fantasy;
+}
+h1{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 900;
+}
+
+h2{
+    color: deepskyblue;
+}
+
+h3{
+    color: blue;
+}
+
+#h1Title{
+    font-style: italic;
+    color: cornflowerblue;
+}
+
+li{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+}
+
+#mainList{
+    color: rgb(194, 43, 43);
+}
